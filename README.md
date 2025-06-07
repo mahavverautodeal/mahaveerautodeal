@@ -28,6 +28,6 @@
   </style>
 </head>
 <body>
-  <a href="https://instagram.com/mahaveerautodeal" class="button" target="_blank">Visit Instagram Profile</a>
+  <a href="https://instagram.com/mahaveerautomall" class="button" target="_blank">Visit Instagram Profile</a>
 </body>
 </html>
